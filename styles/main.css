@@ -62,6 +62,10 @@ header nav li {
   float: left;
 }
 
+.nav-cta {
+  display: block;
+}
+
 header nav li a {
   padding-inline: 1rem;
   text-transform: uppercase;
